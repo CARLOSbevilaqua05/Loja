@@ -90,7 +90,7 @@
                 // Mensagem pré-definida para WhatsApp
                 const message = `Olá! Tenho interesse no veículo ${vehicle.name} - ${vehicle.year} - ${vehicle.price}`;
                 const encodedMessage = encodeURIComponent(message);
-                const whatsappLink = `https://wa.me/5511999999999?text=${encodedMessage}`;
+                const whatsappLink = `https://wa.me/5518997837346?text=${encodedMessage}`;
                 
                 // Gerar o HTML do slider de imagens
                 let sliderHTML = `
