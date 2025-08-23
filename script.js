@@ -7,9 +7,9 @@
                 year: "1998",
                 price: "R$ 26.800",
                 images: [
-                   "img/vectra1.png",
-                   "img/vectra2.png",
-                   "img/vectra3.png"
+                   "img1/vectra1.png",
+                   "img1/vectra2.png",
+                   "img1/vectra3.png"
 
                 ],
                 description: "Completo, ar-condicionado, direção hidráulica, único dono"
