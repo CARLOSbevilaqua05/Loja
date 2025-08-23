@@ -8,9 +8,9 @@
                 price: "R$ 26.800",
                 images: [
                    "img/captura de tela 2025-08-23 162235.png",
-                   "img/vectra/captura de tela 2025-08-23 162257.png",
-                   "img/vectra/captura de tela 2025-08-23 162257.png",
-                    "img/vectra/captura de tela 2025-08-23 162325.png"
+                   "img/captura de tela 2025-08-23 162257 copy.png",
+                   "img/captura de tela 2025-08-23 162257.png",
+                    "img/captura de tela 2025-08-23 162325.png"
 
                 ],
                 description: "Completo, ar-condicionado, direção hidráulica, único dono"
