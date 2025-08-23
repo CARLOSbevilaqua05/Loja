@@ -22,8 +22,9 @@
                 price: "R$ 99.900",
                 images: [
                     "https://images.unsplash.com/photo-1567899378494-47b22b2b5b6a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
-                    "https://images.unsplash.com/photo-1601268859287-9cec8a74e9f8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1476&q=80",
-                    "https://images.unsplash.com/photo-1601268859287-9cec8a74e9f8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1476&q=80"
+                    "img/captura de tela 2025-08-23 162257 copy.png",
+                    "img/captura de tela 2025-08-23 162257.png",
+                
                 ],
                 description: "SUV, automático, 4x4, teto solar, sensor de estacionamento"
             },
