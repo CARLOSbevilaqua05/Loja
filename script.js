@@ -3,14 +3,13 @@
         const vehicles = [
             {
                 id: 1,
-                name: "Vectra elegance",
+                name: "Vectra Elegance",
                 year: "1998",
                 price: "R$ 26.800",
                 images: [
-                   "img1/vectra1.png",
-                   "img1/vectra2.png",
-                   "img1/vectra3.png"
-
+                    "img/captura de tela 2025-08-23 162235.png",
+                    "img/vectra/captura de tela 2025-08-23 162257.png",
+                    "img/vectra/captura de tela 2025-08-23 162325.png"
                 ],
                 description: "Completo, ar-condicionado, direção hidráulica, único dono"
             },
@@ -20,10 +19,9 @@
                 year: "2021/2022",
                 price: "R$ 99.900",
                 images: [
-                 "",
-                 "",
-                 ""
-                 
+                    "https://images.unsplash.com/photo-1567899378494-47b22b2b5b6a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+                    "https://images.unsplash.com/photo-1601268859287-9cec8a74e9f8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1476&q=80",
+                    "https://images.unsplash.com/photo-1601268859287-9cec8a74e9f8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1476&q=80"
                 ],
                 description: "SUV, automático, 4x4, teto solar, sensor de estacionamento"
             },
@@ -33,11 +31,11 @@
                 year: "2020/2021",
                 price: "R$ 59.990",
                 images: [
-                    "img1/vectra1.png",
+                    "https://images.unsplash.com/photo-1603551906593-2c1f3f35f5c8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
                     "https://images.unsplash.com/photo-1601268859287-9cec8a74e9f8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1476&q=80",
                     "https://images.unsplash.com/photo-1601268859287-9cec8a74e9f8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1476&q=80"
                 ],
-                description: "Economico, baixo consumo, ar-condicionado, alarme"
+                description: "Econômico, baixo consumo, ar-condicionado, alarme"
             },
             {
                 id: 4,
@@ -45,7 +43,7 @@
                 year: "2019/2020",
                 price: "R$ 49.990",
                 images: [
-                     "img1/vectra1.png",
+                    "https://images.unsplash.com/photo-1603584173870-7f23fdae1b7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1469&q=80",
                     "https://images.unsplash.com/photo-1601268859287-9cec8a74e9f8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1476&q=80",
                     "https://images.unsplash.com/photo-1601268859287-9cec8a74e9f8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1476&q=80"
                 ],
@@ -57,7 +55,7 @@
                 year: "2021/2022",
                 price: "R$ 79.990",
                 images: [
-                    "img1/vectra1.png",
+                    "https://images.unsplash.com/photo-1601268859287-9cec8a74e9f8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1476&q=80",
                     "https://images.unsplash.com/photo-1601268859287-9cec8a74e9f8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1476&q=80",
                     "https://images.unsplash.com/photo-1601268859287-9cec8a74e9f8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1476&q=80"
                 ],
@@ -69,9 +67,8 @@
                 year: "2020/2020",
                 price: "R$ 55.800",
                 images: [
-                     "img1/vectra1.png",
-                    "https://images.unsplash.com/photo-1601268859287-9cec8a74e9f8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1476&q=80",
-                    "https://images.unsplash.com-1601268859287-9cec8a74e9f8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1476&q=80"
+                    "https://images.unsplash.com/photo-1549399542-7e82138ccae0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1467&q=80",
+                    "https://images.unsplash.com/photo-1601268859287-9cec8a74e9f8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1476&q=80"
                 ],
                 description: "Hatch, econômico, ar-condicionado, direção hidráulica"
             }
@@ -174,6 +171,24 @@
             });
         }
 
-        // Inicializar a renderização dos veículos
-        document.addEventListener('DOMContentLoaded', renderVehicles);
+        // Função para animação de scroll
+        function checkScroll() {
+            const elements = document.querySelectorAll('.fade-in');
+            
+            elements.forEach(element => {
+                const elementPosition = element.getBoundingClientRect().top;
+                const screenPosition = window.innerHeight / 1.3;
+                
+                if (elementPosition < screenPosition) {
+                    element.classList.add('visible');
+                }
+            });
+        }
+
+        // Inicializar a renderização dos veículos e eventos
+        document.addEventListener('DOMContentLoaded', function() {
+            renderVehicles();
+            window.addEventListener('scroll', checkScroll);
+            checkScroll(); // Verificar elementos visíveis no carregamento
+        });
     
